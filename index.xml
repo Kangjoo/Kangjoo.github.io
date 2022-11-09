@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edna West</title>
+    <link>https://Kangjoo.github.io/</link>
+    <description>Recent content on Edna West</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright><atom:link href="https://Kangjoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Kangjoo.github.io/about/</link>
+      <pubDate>Wed, 09 Nov 2022 17:55:57 -0500</pubDate>
+      
+      <guid>https://Kangjoo.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
